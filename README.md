@@ -1,7 +1,7 @@
 # UIScrollView
 A brief Overview
 
-![IMG_0008](https://user-images.githubusercontent.com/24994818/71460341-10828b80-2771-11ea-8338-078591e3980d.JPG)
+![IMG_0008](https://user-images.githubusercontent.com/24994818/71460392-4162c080-2771-11ea-9bf6-850526558776.JPG)
 
 ```objective-c
 //
