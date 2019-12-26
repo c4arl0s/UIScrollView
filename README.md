@@ -1,7 +1,7 @@
 # UIScrollView
 A brief Overview
 
-![Sin título 2](https://user-images.githubusercontent.com/24994818/71460714-b1257b00-2772-11ea-8235-ea0c4af9e2ed.jpg)
+![Sin título 3](https://user-images.githubusercontent.com/24994818/71460759-d914de80-2772-11ea-8700-d76b8f4c2270.jpg)
 
 ![Sin título 1](https://user-images.githubusercontent.com/24994818/71460651-5ee45a00-2772-11ea-9179-8e952ae34522.jpg)
 
