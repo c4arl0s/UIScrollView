@@ -3,7 +3,7 @@ A brief Overview
 
 ![adorable-animal-blur-617278](https://user-images.githubusercontent.com/24994818/71460872-37da5800-2773-11ea-816e-4bdebf913a0e.jpg)
 
-![Sin título 3](https://user-images.githubusercontent.com/24994818/71460759-d914de80-2772-11ea-8700-d76b8f4c2270.jpg)
+![Sin título 4](https://user-images.githubusercontent.com/24994818/71462051-b6d18f80-2777-11ea-943e-557637db4e86.jpg)
 
 ![Sin título 1](https://user-images.githubusercontent.com/24994818/71460651-5ee45a00-2772-11ea-9179-8e952ae34522.jpg)
 
