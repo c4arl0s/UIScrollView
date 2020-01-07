@@ -2,9 +2,6 @@
 A brief Overview
 
 ![IMG_0026](https://user-images.githubusercontent.com/24994818/71920713-ff605400-314c-11ea-9669-43dfc8be1724.PNG)
-
-![Sin título 4](https://user-images.githubusercontent.com/24994818/71462051-b6d18f80-2777-11ea-943e-557637db4e86.jpg)
-
 ![Sin título 1](https://user-images.githubusercontent.com/24994818/71460651-5ee45a00-2772-11ea-9179-8e952ae34522.jpg)
 
 ```objective-c
