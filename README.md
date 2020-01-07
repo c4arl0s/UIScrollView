@@ -2,7 +2,7 @@
 A brief Overview
 
 ![Screen Shot 2020-01-07 at 13 03 16](https://user-images.githubusercontent.com/24994818/71921261-23706500-314e-11ea-83ad-502d5e515651.png)
-![Nueva nota 2](https://user-images.githubusercontent.com/24994818/71921082-bceb4700-314d-11ea-9c12-5a73264dab27.png)
+![Screen Shot 2020-01-07 at 13 04 18](https://user-images.githubusercontent.com/24994818/71921328-413dca00-314e-11ea-9686-bb782078d519.png)
 
 ```objective-c
 //
