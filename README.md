@@ -1,7 +1,7 @@
 # UIScrollView
 A brief Overview
 
-![adorable-animal-blur-617278](https://user-images.githubusercontent.com/24994818/71460872-37da5800-2773-11ea-816e-4bdebf913a0e.jpg)
+![IMG_0026](https://user-images.githubusercontent.com/24994818/71920713-ff605400-314c-11ea-9669-43dfc8be1724.PNG)
 
 ![Sin título 4](https://user-images.githubusercontent.com/24994818/71462051-b6d18f80-2777-11ea-943e-557637db4e86.jpg)
 
